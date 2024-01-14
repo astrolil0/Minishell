@@ -10,7 +10,7 @@ This project is the Minishell project in the curriculum of Ecole 42 Kocaeli. Min
 - Supports basic shell commands (cd, echo, pwd, exit).
 - Can handle multiple commands and pipes.
 - Includes error checking and user-friendly error messages.
-- 
+  
 ## How to Use
 
 1. Clone our project repository:
