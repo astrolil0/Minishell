@@ -13,7 +13,7 @@ This project is the Minishell project in the curriculum of Ecole 42 Kocaeli. Min
   
 ## How to Use
 
-1. Clone our project repository:
+1. Clone our project repository
 2. Go to the project directory: `cd minishell`
 3. Compile: `make`
 4. Run Minishell: `./minishell`
