@@ -17,8 +17,9 @@ This project is the Minishell project in the curriculum of Ecole 42 (Kocaeli). M
 2. Go to the project directory: `cd minishell`
 3. Compile: `make`
 4. Run Minishell: `./minishell`
-![ezgif com-video-to-gif-converter](https://github.com/astrolil0/Minishell/assets/113148482/a0bc0a29-de23-4b36-a02e-f8bc3146e2ee)
 
+
+![ezgif com-video-to-gif-converter](https://github.com/astrolil0/Minishell/assets/113148482/615ae8f9-3dcc-4ccb-aa79-745f302dba69)
 
 ![ezgif com-video-to-gif-converter](https://github.com/astrolil0/Minishell/assets/113148482/bcd46ffd-f62b-447e-ba2c-efd09b38e24f)
 
