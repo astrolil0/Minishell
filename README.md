@@ -24,4 +24,5 @@ This project is the Minishell project in the curriculum of Ecole 42 (Kocaeli). M
 
 
 environment variables
-<img width="1281" alt="Ekran Resmi 2024-01-21 ÖÖ 1 37 26" src="https://github.com/astrolil0/Minishell/assets/113148482/cae68314-e684-4850-8d48-b3dd41f84fda">
+
+<img width="1261" alt="Ekran Resmi 2024-01-21 ÖÖ 1 52 00" src="https://github.com/astrolil0/Minishell/assets/113148482/24b300f8-a701-42e1-9a75-cb41a0775c3f">
