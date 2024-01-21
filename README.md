@@ -20,7 +20,7 @@ This project is the Minishell project in the curriculum of Ecole 42 (Kocaeli). M
 4. Run Minishell: `./minishell`
 
 
-![Uploading ezgif.com-video-to-gif-converter.gif…]()
+![ezgif com-video-to-gif-converter](https://github.com/astrolil0/Minishell/assets/113148482/3c18cd51-0e06-44f3-9726-1a5c38eb6bd5)
 
 
 ![ezgif com-video-to-gif-converter](https://github.com/astrolil0/Minishell/assets/113148482/bcd46ffd-f62b-447e-ba2c-efd09b38e24f)
