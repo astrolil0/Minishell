@@ -4,7 +4,7 @@
 
 This project is the Minishell project in the curriculum of Ecole 42 (Kocaeli). Minishell aims to build a simple shell application and helps students grasp the basics such as system calls, operations and string operations.
 
-## Features![ezgif com-video-to-gif-converter](https://github.com/astrolil0/Minishell/assets/113148482/ec232acb-7765-4031-b595-9b571de7065e)
+## Features
 
 
 - Includes a simple command interpreter (parser).
