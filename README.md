@@ -1,4 +1,4 @@
-# Minishell
+# Minishell(myhell)
 
 42 school project
 
