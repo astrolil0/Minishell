@@ -1,5 +1,3 @@
-
-
 #include "libft.h"
 
 int	ft_strchrindex(char *s, int c)
