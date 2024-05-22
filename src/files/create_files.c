@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   create_files.c                                     :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: erhorasa <erhorasa@student.42kocaeli.co    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2024/01/12 19:57:28 by erhorasa          #+#    #+#             */
+/*   Updated: 2024/01/23 16:07:33 by erhorasa         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "minishell.h"
 #include <fcntl.h>
 #include <stdio.h>
@@ -67,7 +79,6 @@ void	create_out_files_me(t_parse *current_parse, t_parse *first_parse,
 		handle_relative_path(&pwd, current_parse);
 	else
 		pwd = ft_strdup(m_next->text[0]);
-	printf("pwd = %s\n", pwd);
 	if (current_parse->type == GREATER)
 		m_next->fd = open(pwd, O_CREAT | O_RDWR | O_APPEND, 0777);
 	else if (current_parse->type == GREAT)
