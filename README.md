@@ -1,5 +1,4 @@
-# Minishell (my hell)
-
+# Minishell 
 42 school project
 
 This project is the Minishell project in the curriculum of Ecole 42 (Kocaeli). Minishell aims to build a simple shell application and helps students grasp the basics such as system calls, operations and string operations.
